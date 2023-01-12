@@ -48,5 +48,4 @@ public class TrelloAutomationTest {
 		System.out.println("Y coordinate of the card that we moved : "+yCoord);
 		driver.close();
 	}
-	
 }
